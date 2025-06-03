@@ -13,7 +13,7 @@
 - 👨‍💻 6 years of non-commercial web development experience  
 - 🤖 3+ years building ML models, focusing on NLP & LLMs  
 - 📚 IBM & UC Davis certified in AI and Data Science  
-- 🧪 Currently working on projects in NLP and model interpretability  
+- 🧪 Currently working on projects in NLP, model interpretability and bias mitigation
 - 🐧 Arch Linux user and open-source enthusiast  
 
 ---
