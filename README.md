@@ -66,16 +66,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 💡 [`vladolearn`](https://github.com/VladShev74/vladolearn): Custom Python ML library  
-- 📂 [`SQLite-task-manager`](https://github.com/VladShev74/SQLite-task-manager): CRUD task manager with SQLite + Python  
-- 💻 [`dashboard-frontend`](https://github.com/VladShev74/dashboard-frontend): Modern Vue 3 + Tailwind fitness UI  
-- 🔧 [`dashboard-backend`](https://github.com/VladShev74/dashboard-backend): Node.js REST API with MongoDB  
-- 🔍 [`Multimedia-Search-and-Retrieval`](https://github.com/VladShev74/Multimedia-Search-and-Retrieval): Media search using Jupyter + Python  
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
