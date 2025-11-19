@@ -14,7 +14,7 @@
 - 🤖 3+ years building ML models, focusing on NLP & LLMs  
 - 📚 IBM & UC Davis certified in AI and Data Science  
 - 🧪 Currently working on projects in NLP, model interpretability and bias mitigation
-- 🐧 Arch Linux user and open-source enthusiast  
+- 🐧 Linux user (curr. Pop_OS!) and open-source enthusiast  
 
 ---
 
